@@ -1,16 +1,19 @@
 ## Hi there 👋
+## Développeur Fullstack Java / Angular ‍ | microservices et architectures agiles ⚙️
 
-<!--
-**AnkiliAli/AnkiliAli** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### ‍ À propos
 
-Here are some ideas to get you started:
+Passionné par le développement logiciel  et l'innovation technologique ✨, je suis un développeur fullstack avec une solide expertise en Java, Angular et architectures microservices. Diplômé d'un Master en Génie Logiciel et SI, j'ai eu l'opportunité de travailler sur des projets à fort impact , notamment dans le domaine de la santé.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Au sein d'équipes agiles Scrum ‍♂️, j'ai développé des compétences clés dans la conception et le développement d'API REST , d'interfaces utilisateur intuitives et performantes , ainsi que dans la gestion de bases de données SQL ️ et NoSQL . 
+
+Je suis constamment à la recherche de nouvelles opportunités  pour mettre à profit mon expertise et relever des défis techniques stimulants .
+
+###  Compétences
+
+*   **Langages**: Java ☕, JavaScript, TypeScript, HTML, CSS
+*   **Frameworks**: Angular, Spring (Boot, Batch, Data), Hibernate
+*   **Microservices**: Spring Cloud, Docker, 
+*   **Bases de données**: SQL (PostgreSQL, MySQL), NoSQL (MongoDB)
+*   **Outils**: Git , Maven, Gradle, SonarLint, Flyway
+*   **Méthodologies**: Agile Scrum ‍♂️
